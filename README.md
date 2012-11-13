@@ -1,4 +1,4 @@
 mt-template-1
 =============
 
-some templates
+some templates from custom Movable Type theme
